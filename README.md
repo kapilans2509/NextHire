@@ -1,3 +1,3 @@
 ## Project Output
 
-![NextHire Output](screenshots/output.png)
+![NextHire Output](screenshotsoutput.png)
